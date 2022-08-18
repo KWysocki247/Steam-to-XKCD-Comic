@@ -2,7 +2,6 @@
 =-=-=-=-=-=-=-=-=-=-=-=-
 Xkcd Comic Finder
 =-=-=-=-=-=-=-=-=-=-=-=-
-Student ID: 23538207
 Comment (Required):
 This code creates a localhost server on port 3000 and when a user connects in ask to enter a steam id.
 When the steam id is entered, we make a GET request to the steam api to get the steam users public information.
